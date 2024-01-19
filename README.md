@@ -10,5 +10,5 @@ The M.O.D.A.L. research group at the University Naples Federico II conducts rese
 
 #### Head and Scientific Coordinator
 
-Prof. Francesco Piccialli, University of Naples Federico II, Deparment of Mathematics and Applications "R. Caccioppoli"
+Prof. Francesco Piccialli, University of Naples Federico II, Department of Mathematics and Applications "R. Caccioppoli"
 
