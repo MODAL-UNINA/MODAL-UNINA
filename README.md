@@ -1,6 +1,7 @@
 <div align="center">
   
 # M.O.D.A.L
+# Mathematical mOdelling and Data AnaLysis
  
 <hr style="height:1px; border:none; color:#333; background-color:#333;">
 </div>
