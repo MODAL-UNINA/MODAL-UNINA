@@ -1,7 +1,7 @@
 <div align="center">
   
 # M.O.D.A.L
-Mathematical mOdelling and Data AnaLysis
+Mathematical mOdelling and Data AnaLysis \\
 Department of Mathematics and Applications "Renato Caccioppoli"
 University of Naples Federico II
 
